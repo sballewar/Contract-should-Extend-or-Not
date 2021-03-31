@@ -1,0 +1,13 @@
+﻿id	identifier
+taxactionSystem	 tax system
+regdt  Registration date
+workerCount   number of employees in the company
+fssdccount   the number of reports sent to the social insurance fund from this organization for its entire existence.
+pfrdcCount   the number of reports sent to the pension fund from this organization for the entire existence.
+fnsdcCount   the number of reports sent to the Federal Tax Service from this organization for its entire existence.
+hasCloudCryptCertificate   presence in this organization a cloud certificate is issued
+OrgCreationDate  Date the organization was added. This is not the date of registration of the organization in the Federal Tax Service, etc., this is the date when the organization was added (created)
+documentsCount  number of documents. Counts the number of documents in the system (which are shown on the "All" tab), not all documents are taken into account in this quantity)
+cnt_users   the number of users under the contract
+
+Target target must be predicted: is_prolong  - the company will extend the contract or not.
